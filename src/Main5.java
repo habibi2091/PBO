@@ -22,7 +22,7 @@ public class Main5 {
         System.out.println(addressbuku1);
 
         // assignment object
-        Buku databuku2 = new Buku("MantappuJiwa","Jerome Polin");
+        Buku databuku2 = new Buku("tutorialpodcaster","Deddy Corbuzier");
         databuku2.display();
         String addressbuku2 = Integer.toHexString(System.identityHashCode(databuku2));
         System.out.println(addressbuku2);
@@ -40,6 +40,6 @@ public class Main5 {
     public static void fungsi(Buku dataBuku){
         String addressbuku2 = Integer.toHexString(System.identityHashCode(dataBuku));
         System.out.println(addressbuku2);
-        dataBuku.penulis = "Nihonggo";
+        dataBuku.penulis = "apaantuh";
     }
 }
