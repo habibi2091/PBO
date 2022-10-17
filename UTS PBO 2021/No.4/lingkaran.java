@@ -23,6 +23,8 @@ public class lingkaran {
     public double keliling(){
         return (2 * this.PHI * this.r);
     }
+    // dibagian sini kita akan menginput dan menghasilkan nilai tersebut dari luas
+    //lingkaran 1 maupun yang kedua
     public static void main(String[] args){
         lingkaran link1 = new lingkaran();
         link1.setR(10);
