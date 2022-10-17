@@ -12,10 +12,10 @@ public class timbangbadan {
     public static void main(String[] args) {
         Scanner leng = new Scanner((System.in));
 
-        System.out.println("Masukkan Berat Badan Anda : ");
+        System.out.println("Masukkan Berat: ");
         bb = leng.nextDouble();
 
-        System.out.println("Masukkan Tinggi Anda: ");
+        System.out.println("Masukkan Tinggi: ");
         tb = leng.nextDouble(); BMI = BMI();
         System.out.println();
 
