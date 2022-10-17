@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class bilangan {
-// seperti biasa kita tambahkan atribut terlebih dahulu
+// seperti biasa kita tambahkan atribut terlebih dahulu ya
    public static void menghitung(int a,int b){
         Scanner leng = new Scanner(System.in);
         for (int i=1;i<=10;i++){ System.out.print(i+". ");
