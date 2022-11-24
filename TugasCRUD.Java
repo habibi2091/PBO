@@ -125,3 +125,16 @@ public class Main {
         }
     }
 }
+
+
+
+
+Database.txt :
+
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+Antonius_2019_1,2019,Antonius,gramedia,belajar memasak
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+Habibi_2021_1,2021,Habibi,Pustaka,cara belajar jadi ngabers
